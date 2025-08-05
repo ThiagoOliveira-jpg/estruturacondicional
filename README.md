@@ -1,3 +1,5 @@
+Projeto simples e didático desenvolvido em Java que permite ao usuário descobrir o dia da semana correspondente a um número de 1 a 7. Utiliza a estrutura switch-case com repetição para tornar a experiência interativa. Ideal para praticar lógica condicional, controle de fluxo e entrada de dados com Scanner.
+
 # switch-case-dia-semana
 import java.util.Scanner;
 
