@@ -1,4 +1,4 @@
-# estruturacondicional
+# switch-case-dia-semana
 import java.util.Scanner;
 
 public class Main {
